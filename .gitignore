@@ -1,0 +1,10 @@
+#gitignore 
+
+#all wav files 
+.wav
+
+
+#external libraries 
+pyAudioAnalysis/
+
+
